@@ -27,6 +27,7 @@ Once started, type into the editor. The content will be saved in the IndexedDB w
 
 ## Heroku Deployment
 
+https://secure-hamlet-10040-6babeb9d1107.herokuapp.com/
 
 ## ScreenShot
 
